@@ -35,9 +35,6 @@ I'm open to:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 
-![Ryan Musasia's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Musasia-Ryan&show_icons=true&theme=default#gh-light-mode-only) https://github.com/Musasia-Ryan/github-readme-stats#gh-light-mode-only
-
-
 
 <!--
 **Musasia-Ryan/Musasia-Ryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
